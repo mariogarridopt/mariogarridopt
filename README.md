@@ -1,4 +1,4 @@
-[![Header](assets/header.png)](https://www.linkedin.com/in/mariogarridopt/)
+[![Header](assets/header.jpg)](https://www.linkedin.com/in/mariogarridopt/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
